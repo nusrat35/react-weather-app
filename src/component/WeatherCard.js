@@ -18,6 +18,9 @@ const WeatherCard = ( weatherInfo) => {
         case "Clouds":
           setWeatherState("wi-day-cloudy");
           break;
+        case "Rain":
+          setWeatherState("wi-rain");
+          break;
         case "Haze":
           setWeatherState("wi-fog");
           break;
