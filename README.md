@@ -2,7 +2,7 @@
 
 WaetherApp is a API based weather information application created with React.js. 
 
-![alt text](https://github.com/nusrat35/react-weather-app/tree/main/public/weatherTitle.PNG "Title image")
+![alt text](https://github.com/nusrat35/react-weather-app/blob/main/public/weatherTitle.PNG "Title image")
 
 ## Live URL
 I deployed it in my github pages. You can visit [here](https://nusrat35.github.io/react-weather-app/)
