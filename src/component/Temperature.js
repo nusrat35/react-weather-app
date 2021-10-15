@@ -40,7 +40,7 @@ const Temperature = () => {
     return (
         <>
             {/* <div className="wrap" style={{paddingBottom:"20px"}}> */}
-            <h2 className="title">Weather App</h2>
+            <h2 className="title">WeatherPoint</h2>
             <div className="search">
                 <input
                     type="search"
